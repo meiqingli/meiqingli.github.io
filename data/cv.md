@@ -29,7 +29,7 @@ Teaching
   * CYPLAN 114 Introduction to Urban and Regional Transportation (Summer 2021)
     *Instructor*
 
-  * CYPLAN 255 Urban Informatics and Visualization (Spring 2020)
+  * CYPLAN 255 Urban Informatics and Visualization (Spring 2020, 2024)
     *Graduate Student Instructor*
 
   * CYPLAN 190 Sustainable Mobility (Fall 2019)
