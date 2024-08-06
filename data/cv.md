@@ -1,7 +1,7 @@
 ---
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 Education
@@ -19,7 +19,7 @@ Teaching
 * University of Central Florida
   * PAD 5336 Introduction to Urban and Regional Planning
   * PAD 6716 Information Systems for Public Managers and Planners
-
+<br><br>
 * University of California, Berkeley
   * D-Lab Data Science Workshops
   * GEOG-LDARCH C188 Geographic Information Science
@@ -27,7 +27,7 @@ Teaching
   * CYPLAN 114 Introduction to Urban and Regional Transportation
   * CYPLAN 255 Urban Informatics and Visualization
   * CYPLAN 190 Sustainable Mobility
-
+<br><br>
 * University of Pennsylvania
   * CPLN 760 Public Realm Studio
 
