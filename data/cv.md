@@ -7,7 +7,7 @@ output:
 ## Meiqing Li, Ph.D., AICP
 
 School of Public Administration, University of Central Florida <br>
-Dr. Phillips Academic Commons, Room 448H <br>
+Dr. Phillips Academic Commons, Room 448M <br>
 528 W Livingston St, Orlando, FL 32801
 
 Email: meiqing@ucf.edu <br>
