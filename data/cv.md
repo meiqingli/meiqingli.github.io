@@ -11,6 +11,7 @@ Dr. Phillips Academic Commons, Room 448M <br>
 528 W Livingston St, Orlando, FL 32801
 
 Email: meiqing@ucf.edu <br>
+Office: 407-823-2604 <br>
 Faculty profile: https://ccie.ucf.edu/person/meiqing-li/
 
 ### Education
