@@ -29,6 +29,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=Bo90n_wAAAAJ&hl=e
 ##### University of Central Florida
   * PAD 5336 Introduction to Urban and Regional Planning
   * PAD 6716 Information Systems for Public Managers and Planners
+  * PAD 5930 Global Cities
 
 ##### University of California, Berkeley
   * D-Lab Data Science Workshops
