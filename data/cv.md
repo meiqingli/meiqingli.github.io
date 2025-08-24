@@ -31,7 +31,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=Bo90n_wAAAAJ&hl=e
   * PAD 6716 Information Systems for Public Managers and Planners (MSURP)
   * PAD 5930 Global Cities (MSURP)
   * PAD 7754 Quantitative Method for Public Administration I (Ph.D)
-  * URP Sustainable Transportation Planning (MSURP)
+  * URP 6711 Sustainable Transportation Planning (MSURP)
 
 ##### University of California, Berkeley
   * D-Lab Data Science Workshops
