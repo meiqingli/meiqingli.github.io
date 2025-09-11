@@ -28,10 +28,10 @@ See [Google Scholar](https://scholar.google.com/citations?user=Bo90n_wAAAAJ&hl=e
 
 ##### University of Central Florida
   * PAD 5336 Introduction to Urban and Regional Planning (MSURP)
-  * PAD 6716 Information Systems for Public Managers and Planners (MSURP)
   * PAD 5930 Global Cities (MSURP)
-  * PAD 7754 Quantitative Method for Public Administration I (Ph.D)
   * URP 6711 Sustainable Transportation Planning (MSURP)
+  * PAD 6716 Information Systems for Public Managers and Planners (MSURP)
+  * PAD 7754 Quantitative Method for Public Administration I (Ph.D)
 
 ##### University of California, Berkeley
   * D-Lab Data Science Workshops
